@@ -10,7 +10,7 @@
     "bulma": "^0.8.0",
     "bulma-quickview": "^2.0.0",
     "kind-of": "^6.0.3",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "turbolinks": "^5.2.0"
   },
   "version": "0.1.0",
